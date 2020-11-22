@@ -6,7 +6,9 @@ Start by looking in the edu.vanderbilt.cs.generics.exercise1.DataContainer
 class. You will need to complete the @ToDo instructions in this class and
 get the DataContainerTest to compile and pass. 
 
-When you are done, go through each of the 
+When you are done, follow the instructions in DataContainer to uncomment
+the statements in AttributedDataContainerTest and follow the instructions
+at the end of DataContainer.
 
 ## Running the Tests
 
